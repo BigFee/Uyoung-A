@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-type-type: none;
+}
+.clear:after{
+    display: block;
+    content:'';
+    clear: both;
+}
